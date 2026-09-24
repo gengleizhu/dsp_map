@@ -1,0 +1,8 @@
+logs/
+build/
+*.json
+*.fasm
+*.bin
+*.hex
+__pycache__/
+*.pyc
